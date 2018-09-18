@@ -5,6 +5,6 @@ package com.ljb.main;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello.github!");
+        System.out.println("hi.gays,nice to meet you!");
     }
 }
